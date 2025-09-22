@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: सा विद्या या विमुक्तये (That is knowledge which liberates)
+subtitle: >
+  <p lang="hi">सा विद्या या विमुक्तये (<i>That is knowledge which liberates<i>)</p>
 
 profile:
   align: right
