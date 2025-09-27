@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <p lang="hi">सा विद्या या विमुक्तये (<i>That is knowledge which liberates<i>)</p>
+subtitle: <strong>सा विद्या या विमुक्तये</strong> <i>( True education is that which liberates  )<i>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>📍 Lucknow, India</p>
     <p><a href="mailto:utkarshsahu4tech@gmail.com">utkarshsahu4tech@gmail.com</a></p> 
-    <p>📍 Lucknow, Uttar Pradesh, India</p>
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+During weekdays, I work as a Data Analyst, but weekends find me in my element as an educator. With over 1.5 years of teaching experience as a Teaching Assistant at the `Indian Institute of Technology Madras` and `Indian Institute of Technology Ropar`, I've discovered that teaching others to see patterns in data is just as rewarding as uncovering those insights myself.  I feel very strongly about open access to educational resources.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently completed the minimum credit requirement for my `Bachelor of Science in Data Science and Applications with a minor in Economics & Finance` from IIT-Madras, alongside a `Bachelor of Technology in Mechanical Engineering with a minor in AI-ML` from Delhi Technological University. This interdisciplinary foundation has naturally drawn me towards `Quantitative Finance` and `Data Science for Social Sciences` (Digital Humanities)  — areas where data meets human behavior and societal impact.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research experiences have taken me from digitizing historical League of Nations proceedings in Paris under the `France Excellence Charpak Lab Scholarship` to enhancing systematic literature review tools in Montreal through the `MITACS Globalink Research Internship`. I'm driven by the potential of data science to make complex systems more interpretable and accessible. Also, I enjoy cooking and have a keen interest in geo-politics.

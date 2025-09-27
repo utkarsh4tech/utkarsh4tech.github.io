@@ -13,7 +13,7 @@
 email: utkarshsahu4tech@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: utkarsh4tech # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -48,9 +48,9 @@ linkedin_username: utkarsh4tech # your LinkedIn user name
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 x_username: Utkarsh4tech # your X handle
-youtube_id: UCa6mBR-VhAKGavH3XjfOEcw # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: Utkarshsahu4tech # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
