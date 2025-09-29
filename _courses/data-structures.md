@@ -1,15 +1,30 @@
 ---
 layout: page
-title: Data Structures & Algorithms
-description: "An in-depth course on fundamental data structures and algorithms from Coursera."
+title: Data Structures
+description: "A course on fundamental data structures."
+img: assets/img/7.jpg
+importance: 1
+category: "Maths & Stats"
 ---
 
-This course covered the essentials of data structures, including arrays, linked lists, stacks, queues, trees, and graphs. We also implemented and analyzed various sorting and searching algorithms.
+### Key Topics Covered
 
-**Key Topics:**
-- Big O Notation
-- Sorting Algorithms (Merge Sort, Quick Sort)
+- Arrays and Linked Lists
+- Stacks and Queues
 - Hash Tables
-- Tree Traversal
+- Trees (Binary Search Trees, AVL Trees)
+- Graphs and Graph Traversal Algorithms (BFS, DFS)
 
-A final project involved solving a real-world problem using an efficient algorithm. You can view the project [here](https://github.com/your-repo).
+### Course Activities & Projects
+
+Here are some of the key activities from this course:
+
+- **Assignment 1: Implementing a Dynamic Array**
+  - Developed a generic dynamic array in Java with automatic resizing.
+- **Project: Maze Solver**
+  - Used a stack-based backtracking algorithm to find a path through a 2D maze.
+  - This project demonstrated a practical application of data structures for problem-solving.
+- **Assignment 2: Binary Search Tree Operations**
+  - Implemented insertion, deletion, and searching operations for a Binary Search Tree.
+- **Project: [Maze Solver]({% link _activities/maze_solver.md %})**
+  - Used a stack-based backtracking algorithm to find a path through a 2D maze. This project has its own detailed page—click the link to learn more!

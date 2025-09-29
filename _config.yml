@@ -4,13 +4,13 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Utkarsh
-middle_name: 
+middle_name:
 last_name: Sahu
 contact_note: >
-  The best way to reach out me is via my email, I check that regularly!!
+  The best way to reach out me is via my LinkedIn, I check that regularly!!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
-footer_text: >
+
+footer_text: ( उत्कर्ष साहू )
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website, utkarsh-sahu, sahu, utkarsh # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -153,7 +153,9 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
-
+  activities:
+    output: true
+    permalink: /activities/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
