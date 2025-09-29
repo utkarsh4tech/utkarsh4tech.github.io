@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-coursework",
           title: "coursework",
-          description: "A summary of my coursework and MOOCs.",
+          description: "Courses I took",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/coursework/";
+            window.location.href = "/course/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -37,16 +37,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
+        },{id: "activities-detailed-statistical-analysis",
+          title: 'Detailed Statistical Analysis',
+          description: "",
+          section: "Activities",handler: () => {
+              window.location.href = "/activities/maze_solver/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "courses-data-structures-amp-algorithms",
-          title: 'Data Structures &amp;amp; Algorithms',
-          description: "An in-depth course on fundamental data structures and algorithms from Coursera.",
+            },},{id: "courses-data-structures",
+          title: 'Data Structures',
+          description: "A course on fundamental data structures.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/data-structures/";
+            },},{id: "courses-stats",
+          title: 'Stats',
+          description: "A course on fundamental data structures.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/stats/";
             },},{
         id: 'social-email',
         title: 'email',
