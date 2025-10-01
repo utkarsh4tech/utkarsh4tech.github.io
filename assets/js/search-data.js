@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-coursework",
           title: "coursework",
-          description: "Courses I took",
+          description: "A detailed walkthrough of the courses I have taken so far over.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/course/";
@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "activities-detailed-statistical-analysis",
-          title: 'Detailed Statistical Analysis',
+        },{id: "activities-statistics-ii-extra-activity-1",
+          title: 'Statistics II - Extra Activity 1',
           description: "",
           section: "Activities",handler: () => {
-              window.location.href = "/activities/maze_solver/";
+              window.location.href = "/activities/stats2_act1/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -52,11 +52,11 @@ ninja.data = [{
           description: "A course on fundamental data structures.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/data-structures/";
-            },},{id: "courses-stats",
-          title: 'Stats',
-          description: "A course on fundamental data structures.",
+            },},{id: "courses-statistics-for-data-science-ii",
+          title: 'Statistics for Data Science II',
+          description: "An exploration of advanced probability and statistical inference to model and draw conclusions from complex data.",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/stats/";
+              window.location.href = "/courses/statistics2/";
             },},{
         id: 'social-email',
         title: 'email',
