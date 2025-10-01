@@ -4,7 +4,7 @@ title: Data Structures
 description: "A course on fundamental data structures."
 img: assets/img/7.jpg
 importance: 1
-category: "Maths & Stats"
+category: "Computer Science"
 ---
 
 ### Key Topics Covered
@@ -26,5 +26,5 @@ Here are some of the key activities from this course:
   - This project demonstrated a practical application of data structures for problem-solving.
 - **Assignment 2: Binary Search Tree Operations**
   - Implemented insertion, deletion, and searching operations for a Binary Search Tree.
-- **Project: [Maze Solver]({% link _activities/maze_solver.md %})**
+- **Project: [Maze Solver]({% link _activities/stats2_act1.md %})**
   - Used a stack-based backtracking algorithm to find a path through a 2D maze. This project has its own detailed page—click the link to learn more!

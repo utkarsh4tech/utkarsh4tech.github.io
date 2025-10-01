@@ -2,10 +2,10 @@
 layout: page
 title: coursework
 permalink: /course/
-description: Courses I took
+description: A detailed walkthrough of the courses I have taken so far over.
 nav: true
 nav_order: 4
-display_categories: ["Maths & Stats", "Economics & Finance"]
+display_categories: ["Maths & Stats", "Economics & Finance", "Computer Science"]
 horizontal: false
 ---
 
