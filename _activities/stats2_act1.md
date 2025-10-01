@@ -27,24 +27,24 @@ This method ensured the data was accurate and formatted cleanly for immediate an
 
 The dataset consists of over 180 rows, where each row represents a single trading day. The data has 6 columns, which are described as follows:
 
-  * **Date:** The specific date of the trading day.
-  * **Open:** The price of one share of AAPL stock when the NASDAQ market opened on that day.
-  * **High:** The highest price that one share of AAPL reached during that trading day.
-  * **Low:** The lowest price that one share of AAPL reached during that trading day.
-  * **Close:** The final price of one share of AAPL when the NASDAQ market closed for the day. This is often used as the primary measure of a stock's value for a given day.
-  * **Volume:** The total number of AAPL shares that were traded (bought and sold) during that day.
+- **Date:** The specific date of the trading day.
+- **Open:** The price of one share of AAPL stock when the NASDAQ market opened on that day.
+- **High:** The highest price that one share of AAPL reached during that trading day.
+- **Low:** The lowest price that one share of AAPL reached during that trading day.
+- **Close:** The final price of one share of AAPL when the NASDAQ market closed for the day. This is often used as the primary measure of a stock's value for a given day.
+- **Volume:** The total number of AAPL shares that were traded (bought and sold) during that day.
 
 ### Detailed Observations
 
 From analyzing the daily stock data for Apple from January to September 2025, I made several interesting observations:
 
-* **Observation 1: A Day of Extreme Volatility:** The data revealed that **April 09, 2025**, was a day of significant market activity. The stock price showed its highest intraday volatility on this date, fluctuating by **$28.72**. This suggests a major news event or announcement likely occurred, causing significant uncertainty and trading throughout the day.
+- **Observation 1: A Day of Extreme Volatility:** The data revealed that **April 09, 2025**, was a day of significant market activity. The stock price showed its highest intraday volatility on this date, fluctuating by **$28.72**. This suggests a major news event or announcement likely occurred, causing significant uncertainty and trading throughout the day.
 
-* **Observation 2: Volume and Volatility Correlation:** Confirming the significance of that date, **April 09, 2025**, was also the day with the highest trading volume by far, with over **184 million** shares traded. This massive volume was coupled with a substantial price increase of **$26.90** from the opening bell to the closing bell. This strong correlation shows the market reacted decisively and positively to whatever news drove the activity on that day.
+- **Observation 2: Volume and Volatility Correlation:** Confirming the significance of that date, **April 09, 2025**, was also the day with the highest trading volume by far, with over **184 million** shares traded. This massive volume was coupled with a substantial price increase of **$26.90** from the opening bell to the closing bell. This strong correlation shows the market reacted decisively and positively to whatever news drove the activity on that day.
 
-* **Observation 3: A Story of Two Halves:** The stock's performance told a story of two distinct halves. The first two quarters were challenging, with the stock declining by **-8.91% in Q1** and another **-8.07% in Q2**. However, there was a dramatic turnaround in the third quarter, which saw powerful growth of **22.52%**. This strong recovery in Q3 completely erased the earlier losses, resulting in a net gain of **4.42%** for the entire nine-month period.
+- **Observation 3: A Story of Two Halves:** The stock's performance told a story of two distinct halves. The first two quarters were challenging, with the stock declining by **-8.91% in Q1** and another **-8.07% in Q2**. However, there was a dramatic turnaround in the third quarter, which saw powerful growth of **22.52%**. This strong recovery in Q3 completely erased the earlier losses, resulting in a net gain of **4.42%** for the entire nine-month period.
 
-* **Observation 4: Balanced Intraday Trading:** Over the entire period, the number of days the stock closed higher than it opened was **49.73%**. This is almost a perfect 50/50 split, which indicates that there was no consistent positive or negative bias during the trading hours themselves; the market was remarkably balanced day-to-day.
+- **Observation 4: Balanced Intraday Trading:** Over the entire period, the number of days the stock closed higher than it opened was **49.73%**. This is almost a perfect 50/50 split, which indicates that there was no consistent positive or negative bias during the trading hours themselves; the market was remarkably balanced day-to-day.
 
 #### Methodology
 
