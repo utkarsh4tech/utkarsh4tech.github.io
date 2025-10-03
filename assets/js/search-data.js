@@ -47,11 +47,46 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "courses-data-structures",
-          title: 'Data Structures',
-          description: "A course on fundamental data structures.",
+            },},{id: "courses-computational-thinking",
+          title: 'Computational Thinking',
+          description: "A course designed to build algorithmic thinking by manually solving problems and understanding core programming concepts from variables to concurrency.",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/data-structures/";
+              window.location.href = "/courses/computationalthinking/";
+            },},{id: "courses-database-management-systems",
+          title: 'Database Management Systems',
+          description: "A comprehensive introduction to database design, management, and application development using the relational model and SQL.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/dbms/";
+            },},{id: "courses-linear-statistical-models",
+          title: 'Linear Statistical Models',
+          description: "An introduction to the theory and application of linear statistical models, covering least squares estimation, hypothesis testing, and ANOVA/ANCOVA using R.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/lsm/";
+            },},{id: "courses-managerial-economics",
+          title: 'Managerial Economics',
+          description: "An application of microeconomic theory to managerial decision-making, covering market dynamics, consumer behavior, market structures, and modern business challenges.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/maneco/";
+            },},{id: "courses-mathematics-for-data-science-i",
+          title: 'Mathematics for Data Science I',
+          description: "A foundational course covering essential concepts in functions, single-variable calculus, and graph theory to model real-world scenarios.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/maths1/";
+            },},{id: "courses-mathematics-for-data-science-ii",
+          title: 'Mathematics for Data Science II',
+          description: "An advanced course in linear algebra, multivariable calculus, and optimization, tailored for applications in machine learning and data science.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/maths2/";
+            },},{id: "courses-introduction-to-python-programming",
+          title: 'Introduction to Python Programming',
+          description: "A first course in programming using Python, focusing on algorithmic problem-solving and core language features from control flow to data processing with Pandas and Numpy.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/python/";
+            },},{id: "courses-statistics-for-data-science-i",
+          title: 'Statistics for Data Science I',
+          description: "An introduction to the foundational concepts of statistics, from describing data and understanding probability to working with random variables.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/statistics1/";
             },},{id: "courses-statistics-for-data-science-ii",
           title: 'Statistics for Data Science II',
           description: "An exploration of advanced probability and statistical inference to model and draw conclusions from complex data.",
