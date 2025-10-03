@@ -2,8 +2,8 @@
 layout: page
 title: Statistics for Data Science II
 description: "An exploration of advanced probability and statistical inference to model and draw conclusions from complex data."
-img: assets/img/7.jpg
-importance: 1
+img: assets/img/stats.jpg
+importance: 4
 category: "Maths & Stats"
 ---
 
