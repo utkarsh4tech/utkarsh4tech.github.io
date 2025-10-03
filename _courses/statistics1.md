@@ -21,20 +21,20 @@ Statistics for Data Science I provided the fundamental building blocks for under
 
 The course is structured over 12 weeks, covering the core principles of probability and descriptive statistics.
 
-| Week   | Primary Focus                     | Key Topics Covered                                                                                                                                              |
-| :----- | :-------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Data Fundamentals                 | Introduction and type of data, Descriptive and Inferential statistics, Scales of measurement.                                                                 |
-| **2** | Categorical Data Analysis         | Describing categorical data, Frequency distribution, Best practices for graphing, Mode and median for categorical variables.                                        |
-| **3** | Numerical Data Analysis           | Frequency tables, Measures of central tendency (Mean, Median, Mode), Quartiles and percentiles, Measures of dispersion (Range, Variance, Std. Dev, IQR), Five-number summary. |
-| **4** | Relationships Between Variables   | Association between categorical variables (contingency tables), Association between numerical variables (Scatterplot, Covariance, Pearson correlation).          |
-| **5** | Principles of Counting            | Basic principles of counting, Addition rule, Multiplication rule, and factorial concepts.                                                                       |
-| **6** | Permutations & Combinations       | Detailed exploration of permutations and combinations.                                                                                                          |
-| **7** | Foundations of Probability        | Basic definitions of probability, Sample space, Events, and fundamental properties of probability.                                                              |
-| **8** | Conditional Probability           | Multiplication rule, Independence, Law of total probability, and Bayes’ theorem.                                                                                |
-| **9** | Intro to Random Variables         | Random experiment, sample space, discrete and continuous random variables, Probability Mass Function (PMF), Cumulative Density Function (CDF).                 |
-| **10** | Properties of Random Variables    | Expectation of a discrete random variable ($E[X]$), Variance ($\text{Var}(X)$), and Standard Deviation ($\sigma$) of a discrete random variable.                   |
-| **11** | Common Discrete Distributions     | Bernoulli trials, Binomial random variable, Poisson distribution, Geometric distribution, and Negative binomial distribution.                                   |
-| **12** | Common Continuous Distributions   | Introduction to continuous random variables, Probability Density Functions (PDF), Uniform distribution, Exponential distribution, and Normal distribution.        |
+| Week   | Primary Focus                   | Key Topics Covered                                                                                                                                                            |
+| :----- | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | Data Fundamentals               | Introduction and type of data, Descriptive and Inferential statistics, Scales of measurement.                                                                                 |
+| **2**  | Categorical Data Analysis       | Describing categorical data, Frequency distribution, Best practices for graphing, Mode and median for categorical variables.                                                  |
+| **3**  | Numerical Data Analysis         | Frequency tables, Measures of central tendency (Mean, Median, Mode), Quartiles and percentiles, Measures of dispersion (Range, Variance, Std. Dev, IQR), Five-number summary. |
+| **4**  | Relationships Between Variables | Association between categorical variables (contingency tables), Association between numerical variables (Scatterplot, Covariance, Pearson correlation).                       |
+| **5**  | Principles of Counting          | Basic principles of counting, Addition rule, Multiplication rule, and factorial concepts.                                                                                     |
+| **6**  | Permutations & Combinations     | Detailed exploration of permutations and combinations.                                                                                                                        |
+| **7**  | Foundations of Probability      | Basic definitions of probability, Sample space, Events, and fundamental properties of probability.                                                                            |
+| **8**  | Conditional Probability         | Multiplication rule, Independence, Law of total probability, and Bayes’ theorem.                                                                                              |
+| **9**  | Intro to Random Variables       | Random experiment, sample space, discrete and continuous random variables, Probability Mass Function (PMF), Cumulative Density Function (CDF).                                |
+| **10** | Properties of Random Variables  | Expectation of a discrete random variable ($E[X]$), Variance ($\text{Var}(X)$), and Standard Deviation ($\sigma$) of a discrete random variable.                              |
+| **11** | Common Discrete Distributions   | Bernoulli trials, Binomial random variable, Poisson distribution, Geometric distribution, and Negative binomial distribution.                                                 |
+| **12** | Common Continuous Distributions | Introduction to continuous random variables, Probability Density Functions (PDF), Uniform distribution, Exponential distribution, and Normal distribution.                    |
 
 ---
 

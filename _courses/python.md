@@ -21,15 +21,15 @@ As the first formal programming course in the curriculum, this was a comprehensi
 
 The course is structured over 12 weeks, building from foundational concepts to practical data processing applications.
 
-| Week(s) | Primary Focus                 | Key Topics Covered                                                                      |
-| :------ | :---------------------------- | :-------------------------------------------------------------------------------------- |
-| **1** | Introduction to Algorithms    | Foundational concepts of algorithms and problem-solving strategies.                     |
-| **2-3** | Conditional Logic             | `if`, `else`, `elif` statements, boolean logic, and nested conditional structures.      |
-| **4-5** | Loops and Iteration           | `for` and `while` loops, using the `range()` function, and controlling loop execution.    |
-| **6-8** | Python Data Collections       | In-depth work with lists, tuples, sets, and dictionaries; their methods and use cases.  |
-| **9-10**| File Input/Output             | Reading from and writing to files, handling file modes, and managing file objects.      |
-| **11** | Python Modules                | Understanding Python's module system, importing libraries, and organizing code.         |
-| **12** | Data Processing with Libraries| Introduction to data processing and numerical computation using Pandas and Numpy.       |
+| Week(s)  | Primary Focus                  | Key Topics Covered                                                                     |
+| :------- | :----------------------------- | :------------------------------------------------------------------------------------- |
+| **1**    | Introduction to Algorithms     | Foundational concepts of algorithms and problem-solving strategies.                    |
+| **2-3**  | Conditional Logic              | `if`, `else`, `elif` statements, boolean logic, and nested conditional structures.     |
+| **4-5**  | Loops and Iteration            | `for` and `while` loops, using the `range()` function, and controlling loop execution. |
+| **6-8**  | Python Data Collections        | In-depth work with lists, tuples, sets, and dictionaries; their methods and use cases. |
+| **9-10** | File Input/Output              | Reading from and writing to files, handling file modes, and managing file objects.     |
+| **11**   | Python Modules                 | Understanding Python's module system, importing libraries, and organizing code.        |
+| **12**   | Data Processing with Libraries | Introduction to data processing and numerical computation using Pandas and Numpy.      |
 
 ---
 

@@ -21,20 +21,20 @@ Managerial Economics provided a practical framework for applying microeconomic p
 
 The course is structured over 12 weeks, covering core microeconomic theories and their application in business strategy.
 
-| Week   | Primary Focus                      | Key Topics Covered                                                                      |
-| :----- | :--------------------------------- | :-------------------------------------------------------------------------------------- |
-| **1** | Introduction to Managerial Economics | Overview of the course and the role of economics in managerial decision-making.          |
-| **2** | Market Fundamentals                | Analysis of Demand, Supply, and market equilibrium.                                     |
-| **3** | Demand Analysis                    | Elasticity and empirical methods for analyzing and forecasting demand.                  |
-| **4** | Consumer Behavior                  | Understanding consumer choice, utility theory, and indifference curves.                 |
-| **5** | Production and Costs               | Technology, production functions, cost minimization, and different types of costs.      |
-| **6** | Perfectly Competitive Markets      | Characteristics, pricing, and output decisions in perfectly competitive markets.        |
-| **7** | Monopoly                           | Market power, pricing strategies, and welfare implications of a monopoly.               |
-| **8** | Imperfect Competition              | Exploring market structures like Monopsony and Monopolistic Competition.                |
-| **9** | Decision Making Under Uncertainty  | Frameworks for making decisions when outcomes involve risk and uncertainty.             |
-| **10** | Asymmetric Information             | Problems of adverse selection and moral hazard, and potential solutions.                |
-| **11** | Government & Business Interaction  | The impact of government policies and regulations on business operations.              |
-| **12** | Modern Platform Businesses         | The economics of two-sided markets, network effects, and digital platform strategies.   |
+| Week   | Primary Focus                        | Key Topics Covered                                                                    |
+| :----- | :----------------------------------- | :------------------------------------------------------------------------------------ |
+| **1**  | Introduction to Managerial Economics | Overview of the course and the role of economics in managerial decision-making.       |
+| **2**  | Market Fundamentals                  | Analysis of Demand, Supply, and market equilibrium.                                   |
+| **3**  | Demand Analysis                      | Elasticity and empirical methods for analyzing and forecasting demand.                |
+| **4**  | Consumer Behavior                    | Understanding consumer choice, utility theory, and indifference curves.               |
+| **5**  | Production and Costs                 | Technology, production functions, cost minimization, and different types of costs.    |
+| **6**  | Perfectly Competitive Markets        | Characteristics, pricing, and output decisions in perfectly competitive markets.      |
+| **7**  | Monopoly                             | Market power, pricing strategies, and welfare implications of a monopoly.             |
+| **8**  | Imperfect Competition                | Exploring market structures like Monopsony and Monopolistic Competition.              |
+| **9**  | Decision Making Under Uncertainty    | Frameworks for making decisions when outcomes involve risk and uncertainty.           |
+| **10** | Asymmetric Information               | Problems of adverse selection and moral hazard, and potential solutions.              |
+| **11** | Government & Business Interaction    | The impact of government policies and regulations on business operations.             |
+| **12** | Modern Platform Businesses           | The economics of two-sided markets, network effects, and digital platform strategies. |
 
 ---
 

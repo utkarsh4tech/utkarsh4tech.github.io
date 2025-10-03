@@ -21,20 +21,20 @@ This course provided a rigorous introduction to the theory and application of li
 
 The course is structured over 12 weeks, blending theory, application, and practical implementation in R.
 
-| Week   | Primary Focus                      | Key Topics Covered                                                                      |
-| :----- | :--------------------------------- | :-------------------------------------------------------------------------------------- |
-| **1** | Review of Statistical Inference    | Foundational concepts of estimation and hypothesis testing.                             |
-| **2** | R Programming Review               | A refresher on working with the R statistical package for data analysis.                |
-| **3** | Least Squares Estimation           | Introduction to least squares estimation and estimable linear functions.                |
-| **4** | Normal Equations                   | Deriving and solving the normal equations for linear models.                            |
-| **5** | Properties of Estimators           | Understanding Best Linear Unbiased Estimates (BLUEs).                                   |
-| **6** | Gauss-Markov Theorem               | In-depth study of the Gauss-Markov Theorem and its implications.                        |
-| **7** | Fundamental Theorems               | Degrees of freedom and the Fundamental Theorems of Least Squares.                       |
-| **8** | Hypothesis Testing in Models       | Framework and application of testing linear hypotheses.                                 |
-| **9** | Classification Models              | Building and interpreting one-way and two-way classification models.                    |
-| **10** | Analysis of Variance               | Performing Analysis of Variance (ANOVA) and Analysis of Covariance (ANCOVA).            |
-| **11** | Q&A and Clarifications             | A dedicated session for questions, answers, and clarifying complex topics.              |
-| **12** | Introduction to Random Effects     | An introduction to random effect and mixed-effect models.                               |
+| Week   | Primary Focus                   | Key Topics Covered                                                           |
+| :----- | :------------------------------ | :--------------------------------------------------------------------------- |
+| **1**  | Review of Statistical Inference | Foundational concepts of estimation and hypothesis testing.                  |
+| **2**  | R Programming Review            | A refresher on working with the R statistical package for data analysis.     |
+| **3**  | Least Squares Estimation        | Introduction to least squares estimation and estimable linear functions.     |
+| **4**  | Normal Equations                | Deriving and solving the normal equations for linear models.                 |
+| **5**  | Properties of Estimators        | Understanding Best Linear Unbiased Estimates (BLUEs).                        |
+| **6**  | Gauss-Markov Theorem            | In-depth study of the Gauss-Markov Theorem and its implications.             |
+| **7**  | Fundamental Theorems            | Degrees of freedom and the Fundamental Theorems of Least Squares.            |
+| **8**  | Hypothesis Testing in Models    | Framework and application of testing linear hypotheses.                      |
+| **9**  | Classification Models           | Building and interpreting one-way and two-way classification models.         |
+| **10** | Analysis of Variance            | Performing Analysis of Variance (ANOVA) and Analysis of Covariance (ANCOVA). |
+| **11** | Q&A and Clarifications          | A dedicated session for questions, answers, and clarifying complex topics.   |
+| **12** | Introduction to Random Effects  | An introduction to random effect and mixed-effect models.                    |
 
 ---
 
