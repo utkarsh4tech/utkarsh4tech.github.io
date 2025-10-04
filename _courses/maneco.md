@@ -13,7 +13,7 @@ Managerial Economics provided a practical framework for applying microeconomic p
 
 ## Instructor
 
-[Prof. Vimal Kumar](https://www.iitk.ac.in/ecos/vimal-kumar), Associate Professor, Department of Economic Sciences, IIT Kanpur
+[Prof. Vimal Kumar](https://iitk.ac.in/new/vimal-kumar), Associate Professor, Department of Economic Sciences, IIT Kanpur
 
 ---
 

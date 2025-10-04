@@ -35,4 +35,4 @@ The course is structured over 12 weeks, building from foundational concepts to p
 
 ## Material used
 
-- [Think Python](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
+- [`Think Python`](https://allendowney.github.io/ThinkPython/) by Allen B. Downey
