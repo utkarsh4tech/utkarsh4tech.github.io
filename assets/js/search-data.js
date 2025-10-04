@@ -52,11 +52,26 @@ ninja.data = [{
           description: "A course designed to build algorithmic thinking by manually solving problems and understanding core programming concepts from variables to concurrency.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/computationalthinking/";
+            },},{id: "courses-corporate-finance",
+          title: 'Corporate Finance',
+          description: "A foundational course on financial principles, covering time value of money, capital budgeting, portfolio theory, asset pricing models, and an introduction to derivatives.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/corporatefinance/";
             },},{id: "courses-database-management-systems",
           title: 'Database Management Systems',
           description: "A comprehensive introduction to database design, management, and application development using the relational model and SQL.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/dbms/";
+            },},{id: "courses-financial-forensics",
+          title: 'Financial Forensics',
+          description: "A course on detecting financial fraud using both traditional forensic accounting techniques and modern data-driven methods like anomaly detection and data visualization.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/financialforencics/";
+            },},{id: "courses-game-theory-and-strategy",
+          title: 'Game Theory and Strategy',
+          description: "An exploration of strategic decision-making, covering simultaneous and sequential games, mixed strategies, and applications in matching, voting, and auctions.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/gametheory/";
             },},{id: "courses-linear-statistical-models",
           title: 'Linear Statistical Models',
           description: "An introduction to the theory and application of linear statistical models, covering least squares estimation, hypothesis testing, and ANOVA/ANCOVA using R.",
