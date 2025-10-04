@@ -5,7 +5,7 @@ permalink: /course/
 description: A detailed walkthrough of the courses I have taken so far over.
 nav: true
 nav_order: 4
-display_categories: ["Maths & Stats", "Economics & Finance", "Computer Science & Programming"]
+display_categories: ["Maths & Stats", "Data Science", "Economics & Finance", "Business & Management Sciences", "Computer Science & Programming"]
 horizontal: false
 ---
 
