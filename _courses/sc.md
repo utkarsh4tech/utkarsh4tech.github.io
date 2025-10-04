@@ -21,25 +21,16 @@ This course was a deep dive into the power of the command line, designed to move
 
 The course is structured over 8 weeks, building from basic commands to advanced scripting and version control.
 
-| Week | Primary Focus | Key Topics Covered |
-
-| :----- | :--------------------------------- | :-------------------------------------------------------------------------------------- |
-
-| **1** | Introduction to the Linux Command Line | Setting up the environment, basic hardware/software diagnostic commands, and I/O redirection. |
-
-| **2** | Package & File Management | Using `apt` for package management, understanding file types, and managing file permissions. |
-
-| **3** | Shell Environment & Navigation | Shell variables, symbolic/hard links, exploring the filesystem, and using shell shortcuts. |
-
-| **4** | Pipes, Regex, & Basic Scripting | Using pipes, regular expressions with `egrep`, the `find` command, and writing simple Bash scripts. |
-
-| **5** | Shell Scripting with Control Flow | Command-line arguments, conditional statements (`if/else`), loops, and functions. |
-
-| **6** | Advanced Text Processing | Using `awk` for data analysis and `sed` for stream editing and pattern replacement. |
-
-| **7** | Build Tools, Packaging, & Networking | The `make` utility, file packaging (tar, zip), and basic networking concepts and diagnostics. |
-
-| **8** | Version Control with Git | Git workflow (branches, repositories), pull requests, and managing local/remote changes. |
+| Week  | Primary Focus                          | Key Topics Covered                                                                                  |
+| :---- | :------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| **1** | Introduction to the Linux Command Line | Setting up the environment, basic hardware/software diagnostic commands, and I/O redirection.       |
+| **2** | Package & File Management              | Using `apt` for package management, understanding file types, and managing file permissions.        |
+| **3** | Shell Environment & Navigation         | Shell variables, symbolic/hard links, exploring the filesystem, and using shell shortcuts.          |
+| **4** | Pipes, Regex, & Basic Scripting        | Using pipes, regular expressions with `egrep`, the `find` command, and writing simple Bash scripts. |
+| **5** | Shell Scripting with Control Flow      | Command-line arguments, conditional statements (`if/else`), loops, and functions.                   |
+| **6** | Advanced Text Processing               | Using `awk` for data analysis and `sed` for stream editing and pattern replacement.                 |
+| **7** | Build Tools, Packaging, & Networking   | The `make` utility, file packaging (tar, zip), and basic networking concepts and diagnostics.       |
+| **8** | Version Control with Git               | Git workflow (branches, repositories), pull requests, and managing local/remote changes.            |
 
 ---
 
