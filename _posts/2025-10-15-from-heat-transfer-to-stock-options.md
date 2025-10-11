@@ -13,7 +13,7 @@ chart:
 pretty_table: true
 ---
 
-# Introduction: Bridging Two Worlds
+## Introduction: Bridging Two Worlds
 
 What if I told you that the same type of equation that describes heat flowing through a steel beam could also model the price of a stock option? It seems unlikely, but the mathematical frameworks are surprisingly similar. As engineers, we're trained to model complex systems, and it turns out that financial markets, in some ways, behave like the physical systems we already know.
 
@@ -21,7 +21,7 @@ What if I told you that the same type of equation that describes heat flowing th
 >
 > This series will show you how to leverage your understanding of partial differential equations from thermodynamics to grasp one of the most important concepts in modern finance: the Black-Scholes equation. We'll start from first principles.
 
-# The Absolute Basics: Stocks, Derivatives, and Options
+## The Absolute Basics: Stocks, Derivatives, and Options
 
 Let's start with the fundamental building blocks.
 
@@ -31,7 +31,7 @@ Let's start with the fundamental building blocks.
 
   - **Option:** This brings us to the star of our show: the stock option. An option is a specific type of derivative that depends on the underlying stock price. But unlike buying a stock directly, an option is a formal **contract** between a buyer and a seller. The buyer pays a fee, called a **premium**, for the rights granted by this contract. This allows the buyer to exercise their right to buy or sell when the stock price moves in their favor. The most important thing to remember is that exercising this contract is a **`right, not an obligation`**.
 
-# The Two Flavors of Options: Calls and Puts
+## The Two Flavors of Options: Calls and Puts
 
 There are two primary types of option contracts.
 
@@ -41,10 +41,21 @@ There are two primary types of option contracts.
 | **Put Option**  |             The right to **Sell** an asset by a certain date for a set price.              | Buying an insurance policy against a drop in your equipment's market value. |
 
 <br/>
-
 The price specified in the contract is known as the **strike price (K)**, and the date is the **expiration date**.
 
-# The Core Problem: Calculating a Fair Price
+## The Two Sides of Contract: Long VS Short
+
+There are two primary positions of option contracts, namely Long or Short.
+
+| **Category** | **Long Position**                                                              | **Short Position**                                                        |
+| ------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **Strategy** | An investor buys a security with the expectation that its price will increase. | An investor borrows and sells a security, expecting its price to decline. |
+| **Profit**   | Gained when the asset's price rises.                                           | Gained when the asset's price falls.                                      |
+| **Risk**     | Maximum loss is limited to the amount invested (if price drops to zero).       | Risk is potentially unlimited (no cap on how high the price can rise).    |
+
+<br/>
+
+## The Core Problem: Calculating a Fair Price
 
 The payoff of an option at its expiration is its final value. Assuming we ignore the initial premium paid, the payoff is the financial gain you make from exercising the option. As shown in the figures below, which are based on your provided image, the payoff depends on the stock price ($S$) relative to the strike price ($K$).
 
@@ -232,7 +243,7 @@ This brings us to the central challenge from a statistical and modeling perspect
 
 > How much premium should you pay to buy an option that will hedge against a potential loss or provide a chance for gain? In other words, what is the fair value of the option _today_ ?
 
-# The Black-Scholes Equation Revealed
+## The Black-Scholes Equation Revealed
 
 This is precisely the problem the Black-Scholes model was created to solve. It provides a theoretical estimate for the price of European-style options. We will not solve it yet, but here is the famous equation in all its glory:
 
@@ -246,11 +257,16 @@ Where:
 - $\sigma$ is the volatility of the stock's returns.
 - $r$ is the risk-free interest rate.
 
-# The "Aha!" Moment
+## The "Aha!" Moment
 
-<img
-src="https://upload.wikimedia.org/wikipedia/en/7/79/Roll_Safe_meme.jpg?20230815000355" >
+<br/>
 
+<center>
+  <img
+  src="https://upload.wikimedia.org/wikipedia/en/7/79/Roll_Safe_meme.jpg?20230815000355" />
+  <br />
+</center>
+  <br />
 Now, for the connection. Does this equation look vaguely familiar? Consider the one-dimensional heat equation from thermodynamics, which describes how temperature ( $T$ ) distributes over a spatial dimension ( $x$ ) through time ( $t$ ):
 
 $$
@@ -258,7 +274,3 @@ $$
 $$
 
 While not identical, the fundamental structure — a first derivative in time related to a second derivative in another variable — is present in both. This remarkable similarity is the key we will exploit to find a solution.
-
-<hr>
-
-We've covered the essential financial vocabulary and introduced our main equation. In the next post, we will take a deep dive into **solving the 1-D heat equation** to prepare ourselves for the final step: transforming it to solve the Black-Scholes equation.
