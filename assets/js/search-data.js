@@ -32,12 +32,23 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "A summary of my teaching and mentorship experience including a collection of curated learning resources for Data Science, AI, and Analytics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "activities-statistics-ii-extra-activity-1",
+        },{id: "post-from-heat-transfer-to-stock-options-an-engineer-39-s-introduction",
+        
+          title: "From Heat Transfer to Stock Options : An Engineer&#39;s Introduction",
+        
+        description: "Laying the groundwork for the Black-Scholes equation by starting with the basics of finance and options, all from an engineer&#39;s perspective.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/from-heat-transfer-to-stock-options/";
+          
+        },
+      },{id: "activities-statistics-ii-extra-activity-1",
           title: 'Statistics II - Extra Activity 1',
           description: "",
           section: "Activities",handler: () => {
@@ -82,6 +93,11 @@ ninja.data = [{
           description: "An exploration of strategic decision-making, covering simultaneous and sequential games, mixed strategies, and applications in matching, voting, and auctions.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/gametheory/";
+            },},{id: "courses-industry-4-0",
+          title: 'Industry 4.0',
+          description: "A course describing the various facets of Industry 4.0 and connecting them with data science techniques to build data-centric business models.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/industry4/";
             },},{id: "courses-programming-concepts-using-java",
           title: 'Programming Concepts using Java',
           description: "A comprehensive course on core programming paradigms using Java, focusing on Object-Oriented Programming, generics, exception handling, and concurrent programming.",
