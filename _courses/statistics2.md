@@ -51,7 +51,7 @@ The course is structured over 12 weeks, with two weeks dedicated to review and c
 | Activity         | Link                                                |
 | ---------------- | --------------------------------------------------- |
 | Extra Activity 1 | [Click Here]({% link _activities/stats2_act1.md %}) |
-| Extra Activity 2 | [Yet to do](#)                                      |
+| Extra Activity 2 | [Click Here]({% link _activities/stats2_act2.md %}) |
 | Extra Activity 3 | [Yet to do](#)                                      |
 | Extra Activity 4 | [Yet to do](#)                                      |
 | Extra Activity 5 | [Yet to do](#)                                      |
