@@ -58,6 +58,11 @@ ninja.data = [{
           description: "",
           section: "Activities",handler: () => {
               window.location.href = "/activities/stats2_act2/";
+            },},{id: "activities-statistics-ii-extra-activity-5",
+          title: 'Statistics II - Extra Activity 5',
+          description: "",
+          section: "Activities",handler: () => {
+              window.location.href = "/activities/stats2_act5/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
