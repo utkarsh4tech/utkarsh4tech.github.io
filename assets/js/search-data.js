@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-from-heat-transfer-to-stock-options-an-engineer-39-s-introduction",
+        },{id: "post-solving-black-scholes-from-heat-to-formula",
+        
+          title: "Solving Black-Scholes: From Heat to Formula",
+        
+        description: "The final step—solving the Heat Equation integral using the exact mathematical framework from our derivation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/soln-using-heat-eqn/";
+          
+        },
+      },{id: "post-solving-black-scholes-the-heat-equation-shortcut",
+        
+          title: "Solving Black-Scholes: The Heat Equation Shortcut",
+        
+        description: "A rigorous step-by-step derivation transforming the Black-Scholes PDE into the Heat Equation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/heat-eqn-to-black-scholes/";
+          
+        },
+      },{id: "post-from-heat-transfer-to-stock-options-an-engineer-39-s-introduction",
         
           title: "From Heat Transfer to Stock Options : An Engineer&#39;s Introduction",
         
