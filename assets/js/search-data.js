@@ -90,6 +90,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "courses-algorithms-for-data-science",
+          title: 'Algorithms for Data Science',
+          description: "A mathematical deep dive into randomized algorithms, dimensionality reduction, statistical learning theory, and differential privacy.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/ads/";
+            },},{id: "courses-ai-search-methods-for-problem-solving",
+          title: 'AI: Search Methods for Problem Solving',
+          description: "A study of how intelligent agents solve problems through state-space search, heuristic optimization, game-playing algorithms, and automated planning.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/ai/";
             },},{id: "courses-business-data-management",
           title: 'Business Data Management',
           description: "A course providing a foundational understanding of how businesses are organized and run from a data perspective, using case studies across multiple industries.",
@@ -100,6 +110,11 @@ ninja.data = [{
           description: "A course focused on building quantitative models and applying statistical techniques to solve complex business problems and make better decisions.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/businessanalytics/";
+            },},{id: "courses-programming-in-c",
+          title: 'Programming in C',
+          description: "A hands-on introduction to low-level programming, focusing on memory management, pointers, and the interface between software and the operating system.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/c/";
             },},{id: "courses-computational-thinking",
           title: 'Computational Thinking',
           description: "A course designed to build algorithmic thinking by manually solving problems and understanding core programming concepts from variables to concurrency.",
@@ -110,11 +125,31 @@ ninja.data = [{
           description: "A foundational course on financial principles, covering time value of money, capital budgeting, portfolio theory, asset pricing models, and an introduction to derivatives.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/corporatefinance/";
+            },},{id: "courses-computer-systems-design",
+          title: 'Computer Systems Design',
+          description: "An exploration of the internal organization of computer systems, from fundamental logic gates and Boolean algebra to the architectural design of a CPU.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/csd/";
             },},{id: "courses-database-management-systems",
           title: 'Database Management Systems',
           description: "A comprehensive introduction to database design, management, and application development using the relational model and SQL.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/dbms/";
+            },},{id: "courses-deep-learning",
+          title: 'Deep Learning',
+          description: "A comprehensive exploration of neural networks, covering foundational architectures like MLPs and advanced models including CNNs, RNNs, and Transformers.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/dl/";
+            },},{id: "courses-deep-learning-practice",
+          title: 'Deep Learning Practice',
+          description: "A practitioner&#39;s guide to state-of-the-art AI, covering the Hugging Face ecosystem, Large Language Model tuning, Speech Processing, and Computer Vision challenges.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/dlp/";
+            },},{id: "courses-design-thinking-for-data-driven-app-development",
+          title: 'Design Thinking for Data-Driven App Development',
+          description: "An experiential journey into empathy-led product design, bridging the gap between human-centered needs and functional data-driven prototypes.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/dt/";
             },},{id: "courses-financial-forensics",
           title: 'Financial Forensics',
           description: "A course on detecting financial fraud using both traditional forensic accounting techniques and modern data-driven methods like anomaly detection and data visualization.",
@@ -180,6 +215,11 @@ ninja.data = [{
           description: "An introduction to the main methods and models for regression, classification, and clustering, focusing on their properties and suitability for different problems.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/mlt/";
+            },},{id: "courses-market-research",
+          title: 'Market Research',
+          description: "A practical guide to transforming marketing problems into researchable questions, utilizing statistical analysis to derive actionable business insights.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/mr/";
             },},{id: "courses-introduction-to-python-programming",
           title: 'Introduction to Python Programming',
           description: "A first course in programming using Python, focusing on algorithmic problem-solving and core language features from control flow to data processing with Pandas and Numpy.",
@@ -190,6 +230,16 @@ ninja.data = [{
           description: "A course on mastering the command line in a Linux environment to automate complex tasks, manage systems, and improve efficiency beyond graphical interfaces.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/sc/";
+            },},{id: "courses-software-engineering",
+          title: 'Software Engineering',
+          description: "An introduction to fundamental concepts and essential practices in software development, including requirement gathering, design, debugging, testing, and deployment.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/se/";
+            },},{id: "courses-software-testing",
+          title: 'Software Testing',
+          description: "A deep dive into the phases of software testing, covering graph and logic coverage criteria, symbolic execution, and specialized techniques for object-oriented and web applications.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/st/";
             },},{id: "courses-statistics-for-data-science-i",
           title: 'Statistics for Data Science I',
           description: "An introduction to the foundational concepts of statistics, from describing data and understanding probability to working with random variables.",
